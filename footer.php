@@ -8,7 +8,7 @@
 			<h5>
 				<img src="assets/img/footer-logo.png" class="img-fluid" height="70" width="70"><span class="company-name">Company Name</span> 
 			</h5>
-			 <p>This is our company info Dummy data . this is our company info Dummy data, this is our company info Dummy datathis is our company info Dummy datathis is our company info Dummy datathis is our company </p>
+			 <p>This is  our company info Dummy data . this is our company info Dummy data, this is our company info Dummy datathis is our company info Dummy datathis is our company info Dummy datathis is our company </p>
 		</div>
 		<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 links-heading" >
 			<h5>Links</h5>
